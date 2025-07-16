@@ -15,5 +15,4 @@ A sleek and modern React-based movie search application that allows users to sea
 
 ---
 
-gi
 
